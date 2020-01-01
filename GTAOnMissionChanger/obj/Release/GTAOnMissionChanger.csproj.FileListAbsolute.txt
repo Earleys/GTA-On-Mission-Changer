@@ -1,0 +1,10 @@
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\bin\Release\GTAOnMissionChanger.exe.config
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\bin\Release\Memory.cs
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\bin\Release\GTAOnMissionChanger.exe
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\bin\Release\GTAOnMissionChanger.pdb
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\obj\Release\GTAOnMissionChanger.csprojResolveAssemblyReference.cache
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\obj\Release\GTAOnMissionChanger.Form1.resources
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\obj\Release\GTAOnMissionChanger.Properties.Resources.resources
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\obj\Release\GTAOnMissionChanger.csproj.GenerateResource.Cache
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\obj\Release\GTAOnMissionChanger.exe
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\obj\Release\GTAOnMissionChanger.pdb

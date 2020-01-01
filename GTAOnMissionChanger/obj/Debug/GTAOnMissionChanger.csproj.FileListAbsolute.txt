@@ -1,0 +1,12 @@
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\bin\Debug\Memory.cs
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\bin\Debug\GTAOnMissionChanger.exe.config
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\bin\Debug\GTAOnMissionChanger.exe
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\bin\Debug\GTAOnMissionChanger.pdb
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\obj\Debug\GTAOnMissionChanger.Form1.resources
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\obj\Debug\GTAOnMissionChanger.OMKey.resources
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\obj\Debug\GTAOnMissionChanger.Properties.Resources.resources
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\obj\Debug\GTAOnMissionChanger.csproj.GenerateResource.Cache
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\obj\Debug\GTAOnMissionChanger.exe
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\obj\Debug\GTAOnMissionChanger.pdb
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\bin\Debug\Beep.wav
+C:\Users\Earleys\Documents\Visual Studio 2013\Projects\GTAOnMissionChanger\GTAOnMissionChanger\obj\Debug\GTAOnMissionChanger.csprojResolveAssemblyReference.cache

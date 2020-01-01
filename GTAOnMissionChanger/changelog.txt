@@ -1,0 +1,22 @@
+﻿1.3.2:
+
+****** bugfixes ****
+
+- Fixed update-checker and some minor changes
+
+
+1.3.1:
+
+****** new features ******
+- San Andreas Steam 3.0 with latest patch is now supported
+- GTA III Steam version might always be detected now (can't test)
+
+****** changes *****
+- Changed about text
+- Cleaned code ( = slightly faster performance) 
+	* Updated GameVersion/GameVersionDetector object to be (slightly) easier to use
+	* Removed and shortened a lot of unnecessary code
+
+****** bugfixes ****
+- Fixed bug where resetting keypress without restarting won't apply
+- Fixed a bug where the application wouldn't restart after saving a new key
