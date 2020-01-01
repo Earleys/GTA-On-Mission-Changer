@@ -196,7 +196,7 @@
             this.useNewAddressesForGTASAToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
             this.useNewAddressesForGTASAToolStripMenuItem.Name = "useNewAddressesForGTASAToolStripMenuItem";
             this.useNewAddressesForGTASAToolStripMenuItem.Size = new System.Drawing.Size(470, 30);
-            this.useNewAddressesForGTASAToolStripMenuItem.Text = "Use new addresses for GTA: SA";
+            this.useNewAddressesForGTASAToolStripMenuItem.Text = "Use new addresses for GTA: SA (w.i.p.)";
             this.useNewAddressesForGTASAToolStripMenuItem.Click += new System.EventHandler(this.useNewAddressesForGTASAToolStripMenuItem_Click);
             // 
             // tsmiChangeKey

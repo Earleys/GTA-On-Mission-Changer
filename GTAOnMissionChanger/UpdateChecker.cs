@@ -16,7 +16,7 @@ namespace GTAOnMissionChanger
         {
             Update update = new Update();
 
-            string xmlUrl = "https://dl.dropboxusercontent.com/u/69062064/OnMissionChanger/update.xml";
+            string xmlUrl = "http://earleys.be/downloads/GTAOnMissionChanger/update.xml";
             XmlTextReader reader = null;
             try
             {

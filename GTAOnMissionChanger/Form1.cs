@@ -350,7 +350,7 @@ namespace GTAOnMissionChanger
 
         private void viewSourceCodeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Process.Start("http://google.com");
+            Process.Start("https://github.com/Earleys/GTA-On-Mission-Changer");
         }
 
         private void toolStripMenuItem3_Click(object sender, EventArgs e)
